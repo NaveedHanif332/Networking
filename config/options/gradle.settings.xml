@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="serviceDirectoryPath" value="$USER_HOME$/.gradle/gradle-6.6/wrapper/dists/gradle-6.1.1-all" />
+  </component>
+</application>

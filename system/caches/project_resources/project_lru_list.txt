@@ -1,0 +1,4 @@
+.androidstudio4.0.1434f9e7
+pos.d504244f
+androidstudioprojects.81bbaf77
+talenthub.d9d72b54

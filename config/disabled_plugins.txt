@@ -1,0 +1,11 @@
+com.android.tools.apk
+com.android.tools.games
+com.android.tools.ndk
+com.google.appindexing
+com.google.cluestick.studioclient
+com.google.gct
+com.google.gct.test.recorder
+com.google.gct.testing
+com.google.services
+com.google.services.firebase
+com.google.urlassistant
